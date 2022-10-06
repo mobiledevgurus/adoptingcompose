@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdoptingCompose</string>
+    <string name="title_activity_compose">ComposeActivity</string>
+    <string name="title_activity_view_on_compose">ViewOnComposeActivity</string>
+</resources>
